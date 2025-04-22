@@ -44,7 +44,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinFlorella&show_icons=true&theme=dark" alt="github stats"/></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?MartinFlorella=TU-USUARIO&layout=compact&theme=dark" alt="top languages"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?MartinFlorella=MartinFlorella&layout=compact&theme=dark" alt="top languages"/></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MartinFlorella&theme=dark" alt="streak stats"/></p>
 
